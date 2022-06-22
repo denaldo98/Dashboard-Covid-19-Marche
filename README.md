@@ -2,7 +2,7 @@
 
 Project realized for my bachelor thesis in *Computer And Automation Engineering* at *Università Politecnica delle Marche*.
 
-Thesis title: "Design and implementation of dashboards for the analysis of the trend of the Covid-19 pandemic in the Marche Region". 
+Thesis title: "Design and implementation of dashboards for analyzing the trend of the Covid-19 pandemic in the Marche Region". 
 
 The dashboard is realized using [Power BI](https://powerbi.microsoft.com/en-gb/).
 
